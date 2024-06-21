@@ -47,14 +47,12 @@ I am a final-year Undergraduate Student at Pandit Deendayal Energy University, p
     <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" /></td>
     <td><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" /></td>
-  </tr>
-  <tr align="center">
     <td><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7" /></td>
-    <td><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" /></td>
   </tr>
   <tr align="center">
+    <td><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7" /></td>
+    <td><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" /></td>
   </tr>
