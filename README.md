@@ -82,7 +82,7 @@ I am a final-year Undergraduate Student at Pandit Deendayal Energy University, p
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adityakhachar&bg_color=000000&color=ffaa00&line=d9eb37&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 <br>
-<center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakhachar" alt="adityakhachar" /></p></center>center/>
+<center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakhachar" alt="adityakhachar" /></p></center>
 <div align="center">
   
 ### ⭐️ From Aditya with :sparkling_heart:
