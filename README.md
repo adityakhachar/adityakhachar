@@ -55,6 +55,7 @@ I am a final-year Undergraduate Student at Pandit Deendayal Energy University, p
     <td><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" /></td>
+    <td><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" /></td>
   </tr>
   <tr align="center">
     <td><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" /></td>
@@ -67,16 +68,13 @@ I am a final-year Undergraduate Student at Pandit Deendayal Energy University, p
     <td><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" /></td>
+    <td><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" /></td>
   </tr>
   <tr align="center">
     <td><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" /></td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" /></td>
   </tr>
 </table>
 
