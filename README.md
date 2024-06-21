@@ -26,7 +26,7 @@ I am a final-year Undergraduate Student at Pandit Deendayal Energy University, p
 <table align="center">
   <tr align="center">
     <td><a href="https://discord.gg/https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a></td>
-    <td><a href="https://instagram.com/https://www.instagram.com/adityaraj___9/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a></td>
+    <td><a href="https://www.instagram.com/adityaraj___9/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a></td>
     <td><a href="https://linkedin.com/in/https://www.linkedin.com/in/rohan-matre-b0b334221/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a></td>
     <td><a href="https://facebook.com/https://www.facebook.com/rohan.matre.12/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a></td>
   </tr>
